@@ -44,10 +44,26 @@ h3{
 }
 .chilli_img{
 border-radius: 50%;
+ float: right;
+ margin-right: 30px;
 }
 .my_skills_img{
 border-radius: 50%;
+float: left;
+margin-left: 50px;
 }
 .programmer{
   font-weight: normal;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.code-skill-description{
+  clear: left;
+}
+.code-cilli-description{
+clear: right;
 }
