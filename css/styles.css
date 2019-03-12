@@ -3,19 +3,26 @@
   position: relative;
   padding-top: 100px;
 }
+a{
+  color:#11999E;
+}
 body{
   margin: 0px;
   text-align: center;
   font-family: 'Merriweather', serif;
 }
 h1{
+  color: #66BFBF;
   margin-top: 0px;
+  font-size: 90px;
   font-family: 'Sacramento', cursive;
 }
 h2{
+  color: #66BFBF;
   font-family: 'Montserrat', sans-serif;
 }
 h3{
+  color: #11999E;
   font-family: 'Montserrat', sans-serif;
 }
 .middle-container{
